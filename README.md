@@ -22,7 +22,7 @@ Languages and Tools:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bushr-1996&show_icons=true&theme=prussian)
 
 
-You can find me on [![LinkedIn][3.2]][3].
+You can find me on [![LinkedIn][2.2]][2].
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/bushr-1996/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 [2]: https://www.linkedin.com/in/bushra-mulla-321116153/
