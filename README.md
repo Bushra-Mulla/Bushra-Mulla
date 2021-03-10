@@ -8,7 +8,7 @@ My name is Bushra a passionate web developer familiar with the basics of program
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bushr-1996&show_icons=true&theme=prussian)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bushr-1996&layout=prussian)](https://github.com/bushr-1996/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bushr-1996&layout=compact&theme=prussian)](https://github.com/bushr-1996/github-readme-stats)
 
 <!--
 **bushr-1996/bushr-1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
