@@ -3,7 +3,9 @@
 
 
 ### Hi there 👋
+
 My name is Bushra a passionate web developer familiar with the basics of programming and development.
+
 
 <!--
 
@@ -12,11 +14,18 @@ Languages and Tools:
 -->
 
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bushr-1996&layout=compact&theme=prussian)](https://github.com/bushr-1996/github-readme-stats)
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bushr-1996&show_icons=true&theme=prussian)
 
+
+You can find me on [![LinkedIn][3.2]][3].
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/bushr-1996/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+[2]: https://www.linkedin.com/in/bushra-mulla-321116153/
 
 
 <!--
