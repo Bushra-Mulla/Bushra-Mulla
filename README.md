@@ -5,7 +5,11 @@
 ### Hi there 👋
 My name is Bushra a passionate web developer familiar with the basics of programming and development.
 
+<!--
+
+Languages and Tools:
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+-->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bushr-1996&layout=compact&theme=prussian)](https://github.com/bushr-1996/github-readme-stats)
