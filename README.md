@@ -1,9 +1,11 @@
 ![Header](https://scontent.xx.fbcdn.net/v/t1.15752-0/s640x640/157905511_129978359050426_4367558515739754709_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=f79d6e&_nc_ohc=pW6GiMxSxWYAX-_KCAb&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=7&oh=e6c21aef9982ff498cbf09dc4e3d7f07&oe=606EF0D1)
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://scontent.xx.fbcdn.net/v/t1.15752-0/s640x640/157905511_129978359050426_4367558515739754709_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=f79d6e&_nc_ohc=pW6GiMxSxWYAX-_KCAb&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=7&oh=e6c21aef9982ff498cbf09dc4e3d7f07&oe=606EF0D1)
 
 
 ### Hi there 👋
+My name is Bushra a passionate web developer familiar with the basics of programming and development.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <!--
 **bushr-1996/bushr-1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
