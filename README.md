@@ -5,7 +5,7 @@
 ### Hi there 👋
 My name is Bushra a passionate web developer familiar with the basics of programming and development.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bushra Mulla&show_icons=true&theme=prussian)
 
 <!--
 **bushr-1996/bushr-1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
