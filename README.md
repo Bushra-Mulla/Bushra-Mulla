@@ -2,7 +2,7 @@
 
 
 
-### Hi there 👋
+### HI there 👋
 
 My name is Bushra a passionate web developer familiar with the basics of programming and development.
 
