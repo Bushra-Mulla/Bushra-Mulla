@@ -15,18 +15,18 @@ Languages and Tools:
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bushr-1996&layout=compact&theme=prussian)](https://github.com/bushr-1996/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bushra-Mulla&layout=compact&theme=prussian)](https://github.com/Bushra-Mulla/github-readme-stats)
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bushr-1996&show_icons=true&theme=prussian)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bushra-Mulla&show_icons=true&theme=prussian)
 
 
 
 You can find me on [![LinkedIn][1.2]][1]
 <!-- Icons -->
 
-[1.2]: https://raw.githubusercontent.com/bushr-1996/bushr-1996/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.2]: https://raw.githubusercontent.com/Bushra-Mulla/Bushra-Mulla/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
